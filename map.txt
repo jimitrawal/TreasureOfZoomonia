@@ -1,0 +1,57 @@
+0,0,You cannot go further west or south.
+0,1,You cannot go further west.
+0,2,You cannot go further west.
+0,3,You cannot go further west.
+0,4,You cannot go further west.
+0,5,You cannot go further west.
+0,6,You cannot go further west.
+0,7,You cannot go further west.
+0,8,You cannot go further west.
+0,9,You cannot go further west or north.
+1,0,You cannot go further south.
+1,4,There is a flat area of grassland.
+1,5,There is a flat area of grassland.
+1,9,You cannot go further north.
+2,0,You cannot go further south.
+2,1,There is a deep trench.
+2,3,You arrive at a rocky area.
+2,5,There is a beach with many pebbles.
+2,9,You cannot go further north.
+3,0,You cannot go further south.
+3,5,There is a beach with many pebbles.
+3,6,There is a beach with many pebbles.
+3,7,There is a dense forest.
+3,8,There is a beach with many pebbles.
+3,9,You cannot go further north.
+4,0,You cannot go further south.
+4,1,There is a beach with many pebbles.
+4,9,You cannot go further north.
+5,0,You cannot go further south.
+5,1,There is a dense forest.
+5,2,There is a beach with many pebbles.
+5,3,There is a beach with many pebbles.
+5,5,You arrive at an old lighthouse, there are weapons here. Do you want to pick up a weapon?
+5,7,There is a treasure full of precious jewels. Do you want to pick up a precious jewel? 
+5,9,You cannot go further north.
+6,0,You cannot go further south.
+6,1,There is a beach with many pebbles.
+6,5,There is a piece of rocky land.
+6,6,There is a piece of rocky land.
+6,9,You cannot go further north.
+7,0,You cannot go further south.
+7,2,There is a dead volcano.
+7,7,There is empty house on an island.
+7,9,You cannot go further north.
+8,0,You cannot go further south.
+8,4,There is a haunted house full of zombies.
+8,9,You cannot go further north.
+9,0,You cannot go further south or east.
+9,1,You cannot go further east.
+9,2,You cannot go further east.
+9,3,You cannot go further east.
+9,4,You cannot go further east.
+9,5,You cannot go further east.
+9,6,You cannot go further east.
+9,7,You cannot go further east.
+9,8,You cannot go further east.
+9,9,You cannot go further east or north.
