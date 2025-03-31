@@ -1,0 +1,57 @@
+0,0,You are at the edge of the world. The ocean stretches endlessly before you.
+0,1,The waves crash against the shore, a constant reminder of the sea's power.
+0,2,A gentle breeze whispers through the air, carrying the scent of salt and seaweed.
+0,3,The sand is soft beneath your feet, a welcome change from the rocky terrain inland.
+0,4,Seagulls circle overhead, their cries echoing across the water.
+0,5,A small fishing boat bobs gently in the distance.
+0,6,You find a washed-up bottle with a mysterious message inside.
+0,7,The sun beats down on your skin, warming you to the bone.
+0,8,You spot a glimmering object half-buried in the sand.
+0,9,The northern horizon is shrouded in mist, obscuring what lies beyond.
+1,0,A steep cliff rises before you, blocking your path south.
+1,4,A vast grassland stretches as far as the eye can see.
+1,5,The wind rustles through the tall grass, creating a soothing melody.
+1,9,The path north is blocked by a towering mountain range.
+2,0,A dark cave entrance looms before you, promising untold dangers.
+2,1,You stumble upon a deep trench, its depths unknown.
+2,3,The rocky area is treacherous, requiring careful footing.
+2,5,The beach is covered in countless pebbles, each worn smooth by the waves.
+2,9,An ancient forest stands to the north, its trees gnarled and imposing.
+3,0,A hidden spring bubbles forth from the earth, offering fresh water.
+3,5,The pebbles on the beach crunch beneath your weight.
+3,6,You discover a rare seashell, its colors vibrant and captivating.
+3,7,The dense forest is alive with the sounds of unseen creatures.
+3,8,The beach stretches endlessly to the horizon, a ribbon of sand and sea.
+3,9,A field of wildflowers blooms to the north, a splash of color in the landscape.
+4,0,A crumbling ruin stands before you, a testament to a forgotten civilization.
+4,1,The beach is littered with driftwood, remnants of long-lost ships.
+4,9,A babbling brook flows from the north, its waters crystal clear.
+5,0,You find a map leading to a hidden treasure.
+5,1,The dense forest is dark and mysterious, its secrets closely guarded.
+5,2,The beach is a haven for sandpipers, their tiny footprints dotting the sand.
+5,3,You unearth a fossil, a relic from a bygone era.
+5,5,You arrive at an old lighthouse, there are weapons here. Do you want to pick up a weapon?
+5,7,There is a treasure full of precious jewels. Do you want to pick up a precious jewel?
+5,9,A portal to another dimension flickers to the north.
+6,0,A swarm of bats emerges from a nearby cave.
+6,1,The beach is a playground for crabs, scuttling sideways across the sand.
+6,5,The rocky land is barren and desolate, offering little sustenance.
+6,6,You find a geode, its interior sparkling with crystals.
+6,9,A mirage shimmers on the horizon to the north, playing tricks on your eyes.
+7,0,A pack of wild dogs snarls at you from the shadows.
+7,2,The dead volcano is a stark reminder of nature's destructive power.
+7,7,There is empty house on an island. Legend says it is haunted.
+7,9,A gateway to the sky opens to the north, revealing a glimpse of the cosmos.
+8,0,A band of mischievous monkeys pelts you with fruit.
+8,4,There is a haunted house full of zombies. Prepare for battle!
+8,9,A celestial alignment occurs to the north, bathing the land in ethereal light.
+9,0,You cannot go further south or east. The world ends here.
+9,1,An impassable chasm blocks your path east.
+9,2,A wall of thorns prevents you from going east.
+9,3,A river of lava flows to the east, a fiery barrier.
+9,4,A dense fog obscures the path to the east.
+9,5,A field of quicksand lies to the east, a deadly trap.
+9,6,A swarm of angry bees guards the path to the east.
+9,7,A slippery ice field makes travel to the east impossible.
+9,8,A dense thicket of brambles blocks your way east.
+9,9,You cannot go further east or north. You have reached the edge of the world.
